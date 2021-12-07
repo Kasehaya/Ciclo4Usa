@@ -1,0 +1,18 @@
+* {
+    margin: 0 auto;
+}
+
+#container1 {
+    background-color: rgb(41, 51, 136);
+    color: white;
+    width: 50%;
+    float: left;
+    vertical-align: middle;
+    text-align: center;
+}
+
+#container2 {
+    background-color: white;
+    width: 50%;
+    float: left;
+}

@@ -1,0 +1,19 @@
+/***
+
+Hoja de estilos de pagina principal
+
+ */
+
+body {
+  background: blue;
+  color: white;
+}
+
+h1, h3 {
+  background-color: yellow;
+  color: black;
+}
+
+a {
+  color: white;
+}
